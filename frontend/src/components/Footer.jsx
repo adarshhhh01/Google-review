@@ -1,4 +1,6 @@
-// Footer.jsx
+
+
+
 const Footer = () => (
   <footer className="bg-neutral-900 text-neutral-100 py-10 px-6">
     <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-5 gap-6">
@@ -19,6 +21,7 @@ const Footer = () => (
         <ul className="space-y-1">
           
           <li>Google Review Management</li>
+          <li><a href="/SEO">Seo optimisation</a></li>
         </ul>
       </div>
       <div>
